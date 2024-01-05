@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MothersonProjectWebsite/static/css/main.a03d4f8a.css",
-    "main.js": "/MothersonProjectWebsite/static/js/main.fbd49f89.js",
+    "main.css": "/MothersonProjectWebsite/static/css/main.64ac2ea9.css",
+    "main.js": "/MothersonProjectWebsite/static/js/main.debea359.js",
     "static/js/787.adf1f044.chunk.js": "/MothersonProjectWebsite/static/js/787.adf1f044.chunk.js",
     "static/media/attachment.png": "/MothersonProjectWebsite/static/media/attachment.e3412b1e3a7e2c7fb01b.png",
     "index.html": "/MothersonProjectWebsite/index.html",
-    "main.a03d4f8a.css.map": "/MothersonProjectWebsite/static/css/main.a03d4f8a.css.map",
-    "main.fbd49f89.js.map": "/MothersonProjectWebsite/static/js/main.fbd49f89.js.map",
+    "main.64ac2ea9.css.map": "/MothersonProjectWebsite/static/css/main.64ac2ea9.css.map",
+    "main.debea359.js.map": "/MothersonProjectWebsite/static/js/main.debea359.js.map",
     "787.adf1f044.chunk.js.map": "/MothersonProjectWebsite/static/js/787.adf1f044.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a03d4f8a.css",
-    "static/js/main.fbd49f89.js"
+    "static/css/main.64ac2ea9.css",
+    "static/js/main.debea359.js"
   ]
 }
