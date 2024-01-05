@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MothersonProjectWebsite/static/css/main.2b3c4c12.css",
+    "main.js": "/MothersonProjectWebsite/static/js/main.1700be57.js",
+    "static/js/787.adf1f044.chunk.js": "/MothersonProjectWebsite/static/js/787.adf1f044.chunk.js",
+    "index.html": "/MothersonProjectWebsite/index.html",
+    "main.2b3c4c12.css.map": "/MothersonProjectWebsite/static/css/main.2b3c4c12.css.map",
+    "main.1700be57.js.map": "/MothersonProjectWebsite/static/js/main.1700be57.js.map",
+    "787.adf1f044.chunk.js.map": "/MothersonProjectWebsite/static/js/787.adf1f044.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b3c4c12.css",
+    "static/js/main.1700be57.js"
+  ]
+}
